@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MiniProject_StudentCheck/1.0.0": {
+        "runtime": {
+          "MiniProject_StudentCheck.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiniProject_StudentCheck/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
